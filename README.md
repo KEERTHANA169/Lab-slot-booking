@@ -1,11 +1,13 @@
 # Lab-slot-booking
 **Student Lab Slot Booking System**
 
+A web application for students to book lab slots with a dynamic dashboard.
+
 **DOWNLOAD**
 
 **RUN --> main_stage2_21**
 
-A web application for students to book lab slots with a dynamic dashboard.
+
 
 
 **Features**
