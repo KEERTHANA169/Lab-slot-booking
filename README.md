@@ -48,6 +48,6 @@ Book lab slots, manage faculty, handle rewards, or adjust admin settings.
 
 **Email: keerthanasm.cs22@bitsathy.ac.in**
 
-**LinkedIn: linkedin.com/in/keerthana-s-m-912911266**
+**LinkedIn: https://www.linkedin.com/in/keerthana-s-m-912911266/**
 
 **GitHub: https://github.com/KEERTHANA169/Lab-slot-booking**
